@@ -32,3 +32,19 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# versões
+/pages/index1.jsx
+/pages/api/index2.jsx
+/components/Porta1.jsx
+/components/Porta2.jsx
+/components/Porta3.jsx
+/components/Porta4.jsx
+/components/Porta5.jsx
+/components/Porta6.jsx
+/styles/Porta1.module.css
+/styles/Porta2.module.css
+/styles/Porta3.module.css
+/styles/Porta4.module.css
+/styles/Porta5.module.css
+/styles/Porta6.module.css
